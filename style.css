@@ -1,0 +1,89 @@
+.head_main{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0275d8;
+    margin-left: 40px;
+    margin-top: 30px
+  }
+
+  #head_main{
+    font-size: 40px;
+    font-weight: bold;
+    color: #0275d8;
+    margin-left: 20px
+  }
+
+  #sum_par{
+    font-size: 17px;
+    margin-left: 20px;
+    margin-right: 10px;
+    text-align: justify;
+}
+
+#par{
+    font-size: 20px;
+    left: 20px;
+    right: 20px;
+    text-align: right;
+}
+
+.head_second{
+    font-size: 40px;
+    margin-top: 30px;
+    font-weight: bold;
+    color: #0275d8;
+    margin-left: 40px;
+    text-align: center;
+  }
+
+.list_ul {
+    margin: 10px
+}
+
+#header {
+    margin-bottom: 60px;
+}
+
+#right_allign {
+    
+    text-align: left;
+}
+
+#par_viz{
+    font-size: 17px;
+    margin-top: 70px;
+    text-align: right;
+}
+
+.hide {
+    display: none
+}
+
+td {
+    content: "$"
+}
+
+tr {
+    text-align: center;
+}
+
+table {
+    margin-left: 30px;
+    margin-bottom: 50px;
+}
+
+th {
+    width: 120px;
+
+}
+
+#oil_price {
+    margin-top: 140px
+}
+
+h2 {
+    font-size: 20px;
+    font-weight: normal;
+    margin-left: 40px;
+     }
+
